@@ -3,9 +3,14 @@ margin: 0px;
 }
 .clyde {border-style:solid;
     border-color:blue;
-width:100px;
-height:50px;
+    width:130px;
+    height:40px;
+    display: inline-block;
+    text-align: center;
+    font-size: 32px;
 }
-p{text-align: center;
-    font-size: 30px;
+body{background-color:#9400D3}
+h1{text-align: center;
+color:black;
+font-size: 90px;
 }
