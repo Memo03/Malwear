@@ -13,4 +13,44 @@ body{background-color:#9400D3}
 h1{text-align: center;
 color:black;
 font-size: 90px;
-}
+.Title {
+    background-color: grey;
+    margin-right: 1170px;
+    border-radius:10px;
+    padding-left: 20px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: white;
+    
+  }
+  #cart {
+     float:right;
+     text-align:right;
+     margin-right: 80px;
+     color:red;
+  }
+  li {
+      margin-left: 20px;
+      
+  }
+  .dropbtn {
+      background-color: grey;
+      color: white;
+      padding: 8px;
+      font-size: 16px;
+      border: none;
+      border-radius: 15px;
+    }
+   .nav-item {
+       text-align:center;
+   }
+   #logo {
+       float:right;
+       width: 110px;
+       margin-right: 40px;
+   }
+    .dropdown-content a:hover {background-color: #ddd;}
+    
+    .dropdown:hover .dropdown-content {display: block;}
+    
+    .dropdown:hover .dropbtn {background-color: black;}x
