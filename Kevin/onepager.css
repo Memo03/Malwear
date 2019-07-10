@@ -12,13 +12,6 @@ body {
   padding-bottom: 5px;
   
 }
-#cart {
-   float:right;
-   text-align:right;
-   margin-right: 80px;
-   color:red;
-   font-size: 25px;
-}
 li {
     margin-left: 50px;
     
@@ -44,9 +37,9 @@ li {
  }
  #box1 {
     float:left;
-    height: 570px;
-    border:solid grey 2px;
-    width: 520px;
+    height: 580px;
+    
+    width: 550px;
     margin-left: 20px;
     margin-top: -20px;
    
@@ -54,11 +47,15 @@ li {
 #box2 {
     float:right;
     border: solid grey 2px;
-    width: 700px;
+    width: 800px;
     margin-right: 20px;
     margin-top: -20px;
-    height: 580px;
-
+    height: 570px;
+}
+#itemimage {
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 100px;
 }
   .dropdown-content a:hover {background-color: #ddd;}
   
