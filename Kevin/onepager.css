@@ -38,4 +38,4 @@ li {
   
   .dropdown:hover .dropdown-content {display: block;}
   
-  .dropdown:hover .dropbtn {background-color: black;}
+  .dropdown:hover .dropbtn {background-color: dimgray;}
