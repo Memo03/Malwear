@@ -1,5 +1,5 @@
 body {
-    
+    background-color: rgb(206, 197, 197);
 }
 .Title {
   background-color: grey;
@@ -58,6 +58,14 @@ li {
 .boxtext {
     margin-left: 15px;
     margin-top: 10px;
+}
+#pricenum {
+    float:left;
+}
+.carousel-inner {
+    width: 300px;
+    display:flex;
+    margin-left: 100px;
 }
   .dropdown-content a:hover {background-color: #ddd;}
   
