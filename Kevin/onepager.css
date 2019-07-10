@@ -10,11 +10,10 @@ body {
   margin-top: 5px;
   color: white;
   padding-bottom: 5px;
-  
+
 }
 li {
     margin-left: 50px;
-    
 }
 .dropbtn {
     background-color: grey;
@@ -38,11 +37,9 @@ li {
  #box1 {
     float:left;
     height: 580px;
-    
     width: 550px;
     margin-left: 20px;
     margin-top: -20px;
-   
 }
 #box2 {
     float:right;
@@ -51,11 +48,16 @@ li {
     margin-right: 20px;
     margin-top: -20px;
     height: 570px;
+    border-radius: 40px;
 }
 #itemimage {
     width: 300px;
     margin-top: 20px;
     margin-left: 100px;
+}
+.boxtext {
+    margin-left: 15px;
+    margin-top: 10px;
 }
   .dropdown-content a:hover {background-color: #ddd;}
   
