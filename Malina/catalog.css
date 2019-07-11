@@ -1,0 +1,66 @@
+.Title {
+    background-color: grey;
+    margin-right: 1170px;
+    border-radius:10px;
+    padding-left: 20px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: white;
+    
+  }
+  #cart {
+     float:right;
+     text-align:right;
+     margin-right: 80px;
+     color:red;
+  }
+  li {
+      margin-left: 20px;
+      
+  }
+  .dropbtn {
+      background-color: grey;
+      color: white;
+      padding: 8px;
+      font-size: 16px;
+      border: none;
+      border-radius: 15px;
+    }
+   .nav-item {
+       text-align:center;
+   }
+   #logo {
+       float:right;
+       width: 110px;
+       margin-right: 40px;
+   }
+    .dropdown-content a:hover {background-color: #ddd;}
+    
+    .dropdown:hover .dropdown-content {display: block;}
+    
+    .dropdown:hover .dropbtn {background-color: black;}
+.block {
+    height: 300px;
+       width: 250px;
+       display: inline-block;
+       border-radius: 0px;
+       
+     }
+     .red {background-color: whitesmoke; 
+     }
+     .orange{background-color:whitesmoke;
+     }
+     .yellow{background-color:whitesmoke;
+     }
+     .green {background-color:whitesmoke;
+     }
+     .blue {background-color:whitesmoke;
+     }
+     .indigo {background-color:whitesmoke;
+     }
+     .pink {background-color:whitesmoke;
+     }
+     .purple {background-color:whitesmoke;
+     }
+     .aqua {background-color:whitesmoke;
+     }
