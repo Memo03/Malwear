@@ -46,21 +46,27 @@
        border-radius: 0px;
        
      }
-     .red {background-color: whitesmoke; 
+     .one {background-color: whitesmoke; 
      }
-     .orange{background-color:whitesmoke;
+     .two{background-color:whitesmoke;
      }
-     .yellow{background-color:whitesmoke;
+     .three{background-color:whitesmoke;
      }
-     .green {background-color:whitesmoke;
+     .four {background-color:whitesmoke;
      }
-     .blue {background-color:whitesmoke;
+     .five {background-color:whitesmoke;
      }
-     .indigo {background-color:whitesmoke;
+     .six {background-color:whitesmoke;
      }
-     .pink {background-color:whitesmoke;
+     .seven {background-color:whitesmoke;
      }
-     .purple {background-color:whitesmoke;
+     .eight {background-color:whitesmoke;
      }
-     .aqua {background-color:whitesmoke;
+     .nine {background-color:whitesmoke;
      }
+     .ten {background-color: whitesmoke;
+     }
+     .eleven{background-color: whitesmoke;
+     }
+     .twelve{background-color: whitesmoke;
+    }
