@@ -1,10 +1,16 @@
 body {
-    background-color: rgb(206, 197, 197);
+    background-color:black ;
+   background-image: url(https://media.giphy.com/media/l0Iy4cguQsSZzhSj6/giphy.gif);
+   background-size: 100px;
+}
+#navbar {
+    background-image: url(https://media.giphy.com/media/5wFGyCddLxvw9Bqb62/giphy.gif);
+    background-size: 100px;
 }
 .Title {
   background-color: grey;
   margin-right: 1170px;
-  border-radius:10px;
+  border-radius:15px;
   padding-left: 20px;
   margin-left: 10px;
   margin-top: 5px;
@@ -13,17 +19,18 @@ body {
 
 }
 li {
-    margin-left: 50px;
+    margin-left: 100px;
 }
 .dropbtn {
     background-color: grey;
     color:white;
-    padding: 8px;
-    padding-left:12px;
-    padding-right:12px;
+    padding-bottom: 3px;
+    padding-left:20px;
+    padding-right:20px;
     font-size: 16px;
     border: none;
-    border-radius: 15px;
+    border-radius: 10px;
+    padding-top:3px;
   }
  .nav-item {
      text-align:center;
@@ -31,44 +38,79 @@ li {
  }
  #logo {
      float:right;
-     width: 110px;
+     width: 105px;
      margin-right: 40px;
  }
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+     
+.dropdown:hover .dropbtn {
+    background-color: black;
+}
  #box1 {
     float:left;
-    height: 580px;
+    height: 600px;
     width: 550px;
     margin-left: 20px;
-    margin-top: -20px;
+    margin-top: -40px;
+    border: solid grey 2px;
+    border-top:hidden;
+    border-left:hidden;
+    border-bottom:hidden;
+    border-right:hidden;
 }
 #box2 {
     float:right;
     border: solid grey 2px;
     width: 800px;
-    margin-right: 20px;
+    margin-right: 40px;
     margin-top: -20px;
     height: 570px;
-    border-radius: 40px;
+    background-color:rgb(80, 78, 78);
+    color:white;
+    border-left:hidden;
+    border-bottom:hidden;
+    border-right: hidden;
+    border-top:hidden;
+    border-radius: 25px;
+    background-image:url(https://media.giphy.com/media/5wFGyCddLxvw9Bqb62/giphy.gif);
+    background-size: 50px;
+  
 }
 #itemimage {
-    width: 300px;
+    width: 800px;
     margin-top: 20px;
     margin-left: 100px;
 }
 .boxtext {
-    margin-left: 15px;
+    margin-left: 30px;
     margin-top: 10px;
+}
+#Itemtitle {
+    margin-top: 100px;
 }
 #pricenum {
     float:left;
 }
 .carousel-inner {
-    width: 300px;
+    width: 420px;
     display:flex;
-    margin-left: 100px;
+    margin-left: 65px;
 }
-  .dropdown-content a:hover {background-color: #ddd;}
-  
-  .dropdown:hover .dropdown-content {display: block;}
-  
-  .dropdown:hover .dropbtn {background-color: black;}
+#line2 {
+    color:white;
+    margin-top:800px;
+    height:400px;
+    background-color:grey;
+    background-image: linear-gradient(black, grey); 
+    text-align:center;
+    background-image: url(https://media.giphy.com/media/3o7TKBYact31GcyS40/giphy.gif);
+    background-size: 10px;
+}
+#contact {
+    padding-top: 30px;
+}
