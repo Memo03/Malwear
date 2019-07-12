@@ -1,5 +1,5 @@
 body {
-    
+    background-color: rgb(206, 197, 197);
 }
 .Title {
   background-color: grey;
@@ -10,18 +10,10 @@ body {
   margin-top: 5px;
   color: white;
   padding-bottom: 5px;
-  
-}
-#cart {
-   float:right;
-   text-align:right;
-   margin-right: 80px;
-   color:red;
-   font-size: 25px;
+
 }
 li {
     margin-left: 50px;
-    
 }
 .dropbtn {
     background-color: grey;
@@ -44,21 +36,36 @@ li {
  }
  #box1 {
     float:left;
-    height: 570px;
-    border:solid grey 2px;
-    width: 520px;
+    height: 580px;
+    width: 550px;
     margin-left: 20px;
     margin-top: -20px;
-   
 }
 #box2 {
     float:right;
     border: solid grey 2px;
-    width: 700px;
+    width: 800px;
     margin-right: 20px;
     margin-top: -20px;
-    height: 580px;
-
+    height: 570px;
+    border-radius: 40px;
+}
+#itemimage {
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.boxtext {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+#pricenum {
+    float:left;
+}
+.carousel-inner {
+    width: 300px;
+    display:flex;
+    margin-left: 100px;
 }
   .dropdown-content a:hover {background-color: #ddd;}
   
