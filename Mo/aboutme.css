@@ -1,0 +1,68 @@
+body {
+    background-color:black ;
+   background-image: url(https://media.giphy.com/media/l0Iy4cguQsSZzhSj6/giphy.gif);
+   background-size: 100px;
+}
+#navbar {
+    background-image: url(https://media.giphy.com/media/5wFGyCddLxvw9Bqb62/giphy.gif);
+    background-size: 100px;
+}
+.Title {
+  background-color: grey;
+  margin-right: 1170px;
+  border-radius:15px;
+  padding-left: 20px;
+  margin-left: 10px;
+  margin-top: 5px;
+  color: white;
+  padding-bottom: 5px;
+
+}
+li {
+    margin-left: 100px;
+}
+.dropbtn {
+    background-color: grey;
+    color:white;
+    padding-bottom: 3px;
+    padding-left:20px;
+    padding-right:20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    padding-top:3px;
+  }
+ .nav-item {
+     text-align:center;
+     
+ }
+ #logo {
+     float:right;
+     width: 105px;
+     margin-right: 40px;
+ }
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+     
+.dropdown:hover .dropbtn {
+    background-color: black;
+/* NAV BAR CSS ^ */
+}
+#line2 {
+    color:white;
+    margin-top:800px; /*Make it bigger for a bigger space between nav and contact bar*/
+    height:400px; /*Affects how long the Contact us bar is*/
+    background-color:grey;
+    background-image: linear-gradient(black, grey); 
+    text-align:center;
+    background-image: url(https://media.giphy.com/media/3o7TKBYact31GcyS40/giphy.gif);
+    background-size: 10px;
+}
+#contact {
+    padding-top: 30px;
+}
+/* CONTACT US CSS ^ */
