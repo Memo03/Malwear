@@ -121,5 +121,10 @@ li {
 }
 .text{
     color:white;
-    text-align:center
+    text-align:center;
+    margin-left: 50px;
+    margin-right:50px;
+}
+a {
+    color:white;
 }
