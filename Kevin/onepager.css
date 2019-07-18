@@ -12,7 +12,7 @@ body {
   background: linear-gradient(#d61313, black);;
   margin-right: 1200px;
   border-radius:15px;
-  padding-left: 20px;
+  padding-left: 32px;
   margin-left: 10px;
   margin-top: 5px;
   color: white;
@@ -50,7 +50,7 @@ li {
 }
      
 .dropdown:hover .dropbtn {
-    background-color: #d61313;
+    background-color: #d61313 ;
 }
  #box1 {
     float:left;
@@ -114,4 +114,15 @@ li {
 }
 #contact {
     padding-top: 30px;
+}
+#email {
+    float:left;
+    margin-left:500px;
+}
+#emailinfo {
+    float:right;
+    margin-right:500px;
+}
+a {
+    color:white;
 }
