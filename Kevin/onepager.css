@@ -115,3 +115,11 @@ li {
 #contact {
     padding-top: 30px;
 }
+#email {
+    float:left;
+    margin-left:500px;
+}
+#emailinfo {
+    float:right;
+    margin-right:500px;
+}
