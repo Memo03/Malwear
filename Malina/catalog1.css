@@ -127,12 +127,12 @@ a {
     color:white;
 }
 .block {
-    height: 300px;
+    height: 270px;
        width: 250px;
        display: inline-block;
        
      }
-.one {background-color: lightgray; 
+.one {background-color: lightgray;
 }
 .two{background-color:lightgray;
 }
@@ -155,4 +155,12 @@ a {
 .eleven{background-color: lightgray;
 }
 .twelve{background-color: lightgray;
+}
+#resize {
+    width: 220px;
+    display:flex;
+    margin-left: 20px;
+}
+#boxblock {
+    text-align:center;
 }
