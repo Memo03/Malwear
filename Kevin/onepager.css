@@ -98,9 +98,9 @@ li {
     float:left;
 }
 .carousel-inner {
-    width: 420px;
+    width: 300px;
     display:flex;
-    margin-left: 65px;
+    margin-left: 130px;
 }
 #line2 {
     color:white;
@@ -125,4 +125,12 @@ li {
 }
 a {
     color:white;
+}
+#shipping {
+    margin-left: 10px;
+}
+#paypals {
+   display:flex;
+   justify-content: center;
+    
 }
