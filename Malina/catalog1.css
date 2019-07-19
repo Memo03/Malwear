@@ -127,11 +127,14 @@ a {
     color:white;
 }
 .block {
-    height: 270px;
+    height: 250px;
        width: 250px;
        display: inline-block;
+       margin-bottom: 20px;
+       margin-left: 10px;
+       margin-right:10px;
        
-     }
+}
 .one {background-color: lightgray;
 }
 .two{background-color:lightgray;
