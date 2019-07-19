@@ -70,7 +70,7 @@ li {
     width: 800px;
     margin-right: 40px;
     margin-top: -20px;
-    height: 570px;
+    height: 600px;
     background-color:rgb(80, 78, 78);
     color:white;
     border-left:hidden;
@@ -92,7 +92,7 @@ li {
     margin-top: 10px;
 }
 #Itemtitle {
-    margin-top: 100px;
+    margin-top: 50px;
 }
 #pricenum {
     float:left;
