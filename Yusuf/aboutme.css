@@ -104,7 +104,7 @@ li {
 }
 #line2 {
     color:white;
-    margin-top:800px;
+    margin-top:300px;
     height:400px;
     background-color:grey;
     background-image: linear-gradient(black, grey); 
@@ -134,4 +134,10 @@ a {
     background-image:url(https://media.giphy.com/media/5wFGyCddLxvw9Bqb62/giphy.gif);
     background-size: 50px;
     border-radius:20px;
+}
+.ustext {
+        color:white;
+        text-align:center;
+        margin-left: 150px;
+        margin-right:150px;
 }

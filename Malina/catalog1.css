@@ -133,6 +133,7 @@ a {
        margin-bottom: 20px;
        margin-left: 10px;
        margin-right:10px;
+       border-radius: 10px;
        
 }
 .one {background-color: lightgrey;
