@@ -22,6 +22,10 @@ body {
 li {
     margin-left: 100px;
 }
+.center-logo{
+  display: block;
+  margin: 0 auto;
+}
 .dropbtn {
     background-color:black;
     color:white;
